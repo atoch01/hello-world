@@ -1,3 +1,3 @@
 # hello-world
-a short description '\n\
+a short description 
 i'm dying inside :)
